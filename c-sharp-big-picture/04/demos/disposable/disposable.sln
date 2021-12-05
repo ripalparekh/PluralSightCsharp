@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "disposable", "disposable.csproj", "{CCFD5B13-0F3D-43F7-A5F1-57AF3815E077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCFD5B13-0F3D-43F7-A5F1-57AF3815E077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFD5B13-0F3D-43F7-A5F1-57AF3815E077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFD5B13-0F3D-43F7-A5F1-57AF3815E077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFD5B13-0F3D-43F7-A5F1-57AF3815E077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50510462-9C70-4AE7-B27B-E1F8B3CF48C2}
+	EndGlobalSection
+EndGlobal

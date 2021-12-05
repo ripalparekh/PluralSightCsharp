@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "jitviawindbg": {
+      "commandName": "Project",
+      "commandLineArgs": "30 12"
+    }
+  }
+}

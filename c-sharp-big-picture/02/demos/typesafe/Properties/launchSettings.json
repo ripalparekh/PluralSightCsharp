@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "typesafe": {
+      "commandName": "Project",
+      "commandLineArgs": "30 12"
+    }
+  }
+}

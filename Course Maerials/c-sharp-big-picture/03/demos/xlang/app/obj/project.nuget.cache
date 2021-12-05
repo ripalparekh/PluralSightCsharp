@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESYDllg3bCSXYw6IJgXKmOZ0ufuP7VXlwr9T+K+1CzfSZfi1ecnvaDQqwC3YbPavmyoUC9bFqDyHvu47Sb6D5Q==",
+  "success": true,
+  "projectFilePath": "C:\\02 C# Practice\\02 PluralSightFundamentals\\c-sharp-big-picture\\03\\demos\\xlang\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ripal\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

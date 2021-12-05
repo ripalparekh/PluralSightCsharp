@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec8695e6-b1cb-4459-998c-9afc107d45fe": {
+      "ProjectGuid": "ec8695e6-b1cb-4459-998c-9afc107d45fe",
+      "DisplayName": "point",
+      "ColorIndex": 0
+    },
+    "b3f714af-41e7-4849-a139-08afa915b831": {
+      "ProjectGuid": "b3f714af-41e7-4849-a139-08afa915b831",
+      "DisplayName": "app",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

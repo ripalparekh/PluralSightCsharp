@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\02 C# Practice\\02 PluralSightFundamentals\\PluralSightFundamentals\\03BuildingBlocks\\03BuildingBlocks.csproj": {}
+    "C:\\02 C# Practice\\02 PluralSight\\PluralSightFundamentals\\03BuildingBlocks\\03BuildingBlocks.csproj": {}
   },
   "projects": {
-    "C:\\02 C# Practice\\02 PluralSightFundamentals\\PluralSightFundamentals\\03BuildingBlocks\\03BuildingBlocks.csproj": {
+    "C:\\02 C# Practice\\02 PluralSight\\PluralSightFundamentals\\03BuildingBlocks\\03BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\02 C# Practice\\02 PluralSightFundamentals\\PluralSightFundamentals\\03BuildingBlocks\\03BuildingBlocks.csproj",
+        "projectUniqueName": "C:\\02 C# Practice\\02 PluralSight\\PluralSightFundamentals\\03BuildingBlocks\\03BuildingBlocks.csproj",
         "projectName": "03BuildingBlocks",
-        "projectPath": "C:\\02 C# Practice\\02 PluralSightFundamentals\\PluralSightFundamentals\\03BuildingBlocks\\03BuildingBlocks.csproj",
+        "projectPath": "C:\\02 C# Practice\\02 PluralSight\\PluralSightFundamentals\\03BuildingBlocks\\03BuildingBlocks.csproj",
         "packagesPath": "C:\\Users\\ripal\\.nuget\\packages\\",
-        "outputPath": "C:\\02 C# Practice\\02 PluralSightFundamentals\\PluralSightFundamentals\\03BuildingBlocks\\obj\\",
+        "outputPath": "C:\\02 C# Practice\\02 PluralSight\\PluralSightFundamentals\\03BuildingBlocks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ripal\\AppData\\Roaming\\NuGet\\NuGet.Config",

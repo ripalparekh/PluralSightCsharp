@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\02 C# Practice\\02 PluralSightFundamentals\\PluralSightFundamentals\\01FirstProject\\01FirstProject.csproj",
+      "projectUniqueName": "C:\\02 C# Practice\\02 PluralSight\\PluralSightFundamentals\\01FirstProject\\01FirstProject.csproj",
       "projectName": "01FirstProject",
-      "projectPath": "C:\\02 C# Practice\\02 PluralSightFundamentals\\PluralSightFundamentals\\01FirstProject\\01FirstProject.csproj",
+      "projectPath": "C:\\02 C# Practice\\02 PluralSight\\PluralSightFundamentals\\01FirstProject\\01FirstProject.csproj",
       "packagesPath": "C:\\Users\\ripal\\.nuget\\packages\\",
-      "outputPath": "C:\\02 C# Practice\\02 PluralSightFundamentals\\PluralSightFundamentals\\01FirstProject\\obj\\",
+      "outputPath": "C:\\02 C# Practice\\02 PluralSight\\PluralSightFundamentals\\01FirstProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ripal\\AppData\\Roaming\\NuGet\\NuGet.Config",

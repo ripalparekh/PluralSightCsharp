@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PluralSightFundamentals",
+    "\\PluralSightFundamentals\\03BuildingBlocks"
   ],
-  "SelectedNode": "\\C:\\02 C# Practice\\02 PluralSightFundamentals",
+  "SelectedNode": "\\PluralSightFundamentals\\03BuildingBlocks\\WeatherUtilities.cs",
   "PreviewInSolutionExplorer": false
 }

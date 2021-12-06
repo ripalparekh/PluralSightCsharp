@@ -6,7 +6,7 @@ namespace MyUtilities
     {
         static public float FahrenheitToCelsius(float temperatureFahrenheit)
         {
-            var temperatureCelsius = temperatureFahrenheit - 32 / 1.8f;
+            var temperatureCelsius = (temperatureFahrenheit - 32) / 1.8f;
             return temperatureCelsius;
         }
 

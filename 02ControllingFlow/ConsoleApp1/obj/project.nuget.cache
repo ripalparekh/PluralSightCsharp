@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "63IRs0qCbmhvmeRJTh6XWmlaPVV/KcsFQGP1kcBDa0p+vR5M4S0ocBxn8qitkfm/P2cwMJarKMM/iqbIXr1Epg==",
+  "success": true,
+  "projectFilePath": "C:\\02 C# Practice\\02 PluralSight\\02ControllingFlow\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ripal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\ripal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ripal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ripal\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

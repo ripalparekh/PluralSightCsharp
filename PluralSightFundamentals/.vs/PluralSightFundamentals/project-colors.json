@@ -5,7 +5,12 @@
       "ProjectGuid": "2c92cd46-e279-4966-abdd-8566e672dc07",
       "DisplayName": "01FirstProject",
       "ColorIndex": 0
+    },
+    "f70e2d9b-fa6f-4e1a-8a43-25cf5e6990c5": {
+      "ProjectGuid": "f70e2d9b-fa6f-4e1a-8a43-25cf5e6990c5",
+      "DisplayName": "03BuildingBlocks",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

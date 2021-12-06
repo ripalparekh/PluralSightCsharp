@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jo8e5/z+BpllYM+DCXctgxRdwYy5lh6wPtIqhzc73XUIUkeExiaxVaI6OnL+TU4Q9IPJhKOJW6FtHXtMcm0n7Q==",
+  "success": true,
+  "projectFilePath": "C:\\02 C# Practice\\02 PluralSight\\Course Materials\\controlling-program-flow-c-sharp\\02\\demos\\start\\WiredBrainCoffeeSurveys.Reports\\WiredBrainCoffeeSurveys.Reports.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ripal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

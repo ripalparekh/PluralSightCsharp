@@ -1,0 +1,16 @@
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.exe
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.deps.json
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.runtimeconfig.json
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.runtimeconfig.dev.json
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.dll
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.pdb
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.csproj.AssemblyReference.cache
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.GeneratedMSBuildEditorConfig.editorconfig
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.AssemblyInfoInputs.cache
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.AssemblyInfo.cs
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.csproj.CoreCompileInputs.cache
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.csproj.CopyComplete
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.dll
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.pdb
+C:\02 C# Practice\02 PluralSight\Course Materials\controlling-program-flow-c-sharp\02\demos\start\WiredBrainCoffeeSurveys.Reports\obj\Debug\netcoreapp3.1\WiredBrainCoffeeSurveys.Reports.genruntimeconfig.cache
